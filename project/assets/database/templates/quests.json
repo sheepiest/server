@@ -76281,7 +76281,7 @@
       ],
       "Fail": [
         {
-          "compareMethod": "<=",
+          "compareMethod": "<",
           "conditionType": "TraderStanding",
           "dynamicLocale": false,
           "globalQuestCounterId": "",
@@ -82771,7 +82771,7 @@
       ],
       "Fail": [
         {
-          "compareMethod": "<=",
+          "compareMethod": "<",
           "conditionType": "TraderStanding",
           "dynamicLocale": false,
           "id": "63a6c752d4153566a073285a",
